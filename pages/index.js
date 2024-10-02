@@ -1,5 +1,4 @@
 import Head from 'next/head';
-import Image from 'next/image';
 import Heads from '../components/Heads';
 import Social from '../components/Social';
 import Slide from '../components/Slide';

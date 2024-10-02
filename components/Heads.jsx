@@ -8,7 +8,7 @@ const Heads = ({heading, message, para}) => {
       <div className='  p-5  text-[#f5f5f5] z-[2] '>
         <h2 className='text-5xl font-bold'>{heading}</h2>
         <p className='py-5 text-xl'>{message}</p>
-        <button className='px-8 py-2 border hover:bg-[#f5f5f5] hover:text-[#333333]'>
+        <button className='px-8 py-2 border text-semibold hover:bg-[#f5f5f5] hover:text-[#333333]'>
           {para}</button>
         </div>
       </div>
