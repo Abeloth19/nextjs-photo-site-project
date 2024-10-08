@@ -5,7 +5,7 @@ import Info from '../components/Info'
 const work = () => {
   return (
     <div>
-        <Heads heading='Our Work' message='Inspiring Connections with Nature & Unveiling the Marvels of Nature.' para="Join" />
+        <Heads heading='Our Work' message='Inspiring Connections With Nature & Unveiling The Marvels Of Nature.' para="Join" />
         <Info />
     </div>
   )
